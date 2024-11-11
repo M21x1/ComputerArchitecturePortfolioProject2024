@@ -21,6 +21,8 @@ def main():
         print(f"Address: {address}, Value: {value}")
 
 
+#print(globals())
+
 #if __name__ == "__main__":
 #    main()
 
